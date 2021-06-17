@@ -2930,6 +2930,7 @@ textarea.form-control-lg {
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   border-radius: 0.25rem;
+  margin: 10px;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -10995,7 +10996,7 @@ html {
 
 .callout4{
   padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(211, 199, 199, 0.0) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://s2.best-wallpaper.net/wallpaper/1920x1080/1904/Cat-study-hard-reading-book_1920x1080.jpg");
+  background: linear-gradient(90deg, rgba(211, 199, 199, 0.0) 0%, rgba(255, 255, 255, 0.1) 100%), url("https://yaroslavchelentano.github.io/UkraineRetroGames/cat.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
